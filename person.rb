@@ -1,4 +1,7 @@
 require_relative 'nameable'
+require_relative 'capitalize_decorator'
+require_relative 'trimmer_decorator'
+
 class Person < Nameable
   attr_accessor :id, :name, :age
 
@@ -8,15 +11,16 @@ class Person < Nameable
     @name = name
     @age = age
     @parent_permission = parent_permission
+    @rentals = []
   end
 
-  private
-
-  def of_age?
-    @age >= 18
+  def add_rental(rental)
+    @rentals << rental
   end
 
-  public
+  def rent(book, date)
+    Rental.new(date, book, self)
+  end
 
   def can_use_services?
     of_age? || parent_permission
@@ -24,5 +28,11 @@ class Person < Nameable
 
   def correct_name
     @name
+  end
+
+  private
+
+  def of_age?
+    @age >= 18
   end
 end

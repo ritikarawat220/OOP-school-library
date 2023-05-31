@@ -43,10 +43,22 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 ### Key Features <a name="key-features"></a>
 
-- Has independent classes
+- [Has independent classes]
+- [Use the "Decorator" design pattern]
+- [Has Associations]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Prerequisites <a name="Prerequisites"></a>
+In order to run this project you need:
+
+- Ruby installed in your machine
+- Any integrated terminal like
+  -CMD
+  -Bash
+  -PowerShell
+  -etc
 
 <!-- GETTING STARTED -->
 
@@ -56,16 +68,19 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 ### Setup
 
-Clone this repository to your desired folder:
+- Clone this repository to your desired folder:
 
-<!--
+for cloning follow this steps
+
+- go to green code button very top left corner of this Repository container
+- copy your SSH or https file and clone it in your desired folder
+- or just download ZIP file
+
 Example commands:
 
 ```sh
-  cd my-folder
   git clone git@github.com:ritikarawat220/OOP-school-library.git
 ```
---->
 
 
 <!-- AUTHORS -->
@@ -85,8 +100,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  [Use the "Decorator" design pattern]
--  [Set up associations]
 -  [Add basic UI.]
 -  [Refactor the code]
 -  [Preserve data]
