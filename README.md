@@ -69,7 +69,6 @@ for cloning follow this steps
 Example commands:
 
 ```sh
-  cd my-folder
   git clone git@github.com:ritikarawat220/OOP-school-library.git
 ```
 
