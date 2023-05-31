@@ -43,7 +43,9 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 ### Key Features <a name="key-features"></a>
 
-- Has independent classes
+- [Has independent classes]
+- [Use the "Decorator" design pattern]
+- [Has Associations]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
