@@ -50,6 +50,16 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Prerequisites <a name="Prerequisites"></a>
+In order to run this project you need:
+
+- Ruby installed in your machine
+- Any integrated terminal like
+  -CMD
+  -Bash
+  -PowerShell
+  -etc
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
