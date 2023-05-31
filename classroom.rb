@@ -24,4 +24,3 @@ classroom.add_student(student2)
 classroom.add_student(student3)
 
 puts classroom.students.map(&:name)
-
