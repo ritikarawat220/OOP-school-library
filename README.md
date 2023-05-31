@@ -62,9 +62,9 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 for cloning follow this steps
 
-> go to green code button very top left corner of this Repository container
-> copy your SSH or https file and clone it in your desired folder
-> or just download ZIP file
+- go to green code button very top left corner of this Repository container
+- copy your SSH or https file and clone it in your desired folder
+- or just download ZIP file
 
 Example commands:
 
