@@ -43,9 +43,10 @@ OOP SCHOOL LIBRARY is a project that manages school data built using ruby.
 
 ### Key Features <a name="key-features"></a>
 
-- [Has independent classes]
-- [Use the "Decorator" design pattern]
-- [Has Associations]
+- **[Has independent classes]**
+- **[Use the "Decorator" design pattern]**
+- **[Has Associations]**
+- **[Has basic UI.]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -55,10 +56,9 @@ In order to run this project you need:
 
 - Ruby installed in your machine
 - Any integrated terminal like
-  -CMD
-  -Bash
-  -PowerShell
-  -etc
+  -Git and GitHub
+  -A code editor
+  -Ruby
 
 <!-- GETTING STARTED -->
 
@@ -82,6 +82,12 @@ Example commands:
   git clone git@github.com:ritikarawat220/OOP-school-library.git
 ```
 
+## Usage <a name="usage"></a>
+
+- To run the project, execute the following command in command line:
+ > ruby main.rb
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
