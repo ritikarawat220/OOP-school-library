@@ -81,7 +81,7 @@ Example commands:
 ```sh
   git clone git@github.com:ritikarawat220/OOP-school-library.git
 ```
-### Usage 
+
 ## Usage <a name="usage"></a>
 
 - To run the project, execute the following command in command line:
